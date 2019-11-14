@@ -1,0 +1,6 @@
+{
+  "name": "nymedia/clean-repo-check",
+  "description": "Clean repo check",
+  "type": "library",
+  "license": "MIT"
+}
